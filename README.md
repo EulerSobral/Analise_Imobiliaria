@@ -1,5 +1,5 @@
 # Analise_Imobiliaria
-Esse projeto, consiste na análise de dados dos imóveis disponíveis para aluguel na cidade do Rio de Janeiro. O intuito do projeto, é fazer a análise de dados de um empresa fictícia de aluguel de imóveis residenciais do Rio de Janeiro, esse projeto foi proposto na formação de Phyton para Data Science da Alura. A seguir, estão os objetivos da análise de dados: 
+Esse projeto, consiste na análise de dados dos imóveis disponíveis para aluguel na cidade do Rio de Janeiro. O intuito do projeto, é fazer a análise de dados de um empresa fictícia de aluguel de imóveis residenciais do Rio de Janeiro, esse projeto foi proposto na formação de Python para Data Science da Alura. A seguir, estão os objetivos da análise de dados: 
   # 1 - Quantidade de linhas e colunas da base de dados  
   # 2 - Colunas da base de dados 
   # 3 - Mostra os tipos de dados da base 
